@@ -1,7 +1,7 @@
 ---
 title: Organisations
-description: Contient les différentes organisations visibles sur multibao.org
-image_url: https://framapic.org/TCzO5ydAn6yF/dpIZuAQMox6Y.jpg
+description: Contient les différentes organisations visibles sur multiBàO
+image_url: https://github.com/multibao/contributions/blob/master/media/apps_for_europe-cc-by.jpg?raw=true
 ---
 
 # Organisations
