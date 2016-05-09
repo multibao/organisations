@@ -1,6 +1,7 @@
 ---
-titre: Feed-backs de citoyens qui sont passés à l'acte
-description: média citoyen Onpassealacte
+title: Feed-backs de citoyens qui sont passés à l'acte
+label: média citoyen Onpassealacte
+owner: onpassealacte
 ---
 
 # Média citoyen Onpassealacte
