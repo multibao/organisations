@@ -1,6 +1,6 @@
 ---
-titre: Se réapproprier l'espace public
-description: architectes du collectif Chiendent
+title: Se réapproprier l'espace public
+label: architectes du collectif Chiendent
 ---
 
 # Collectif Chiendent 
