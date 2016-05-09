@@ -1,6 +1,7 @@
 ---
-titre: Productions collaboratives multibàO
-description: team multiBàO
+title: Productions collaboratives multibàO
+label: team multiBàO
+owner: multibao
 ---
 
 # Team multiBàO 
