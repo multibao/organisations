@@ -1,6 +1,7 @@
 ---
-titre: Animer des initiatives de transition
-description: asbl Réseau transition Belgique
+title: Animer des initiatives de transition
+label: asbl Réseau transition Belgique
+owner: reseautransitionwb
 ---
 
 # Le réseau des initiatives de transition Wallonie – Bruxelles 
