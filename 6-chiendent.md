@@ -1,6 +1,7 @@
 ---
 title: Se réapproprier l'espace public
 label: architectes du collectif Chiendent
+owner: multibao
 ---
 
 # Collectif Chiendent 
