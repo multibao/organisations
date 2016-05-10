@@ -1,7 +1,7 @@
 ---
 title: Se réapproprier l'espace public
 label: architectes du collectif Chiendent
-owner: chiendent
+owner: chiendent/atelier-de-rue
 ---
 
 # Collectif Chiendent 
