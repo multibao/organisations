@@ -1,7 +1,7 @@
 ---
 title: Animer un réseau collaboratif
 label: collectif Coop-TIC.eu
-owner: supagroflorac
+owner: supagroflorac/cooptic
 ---
 
 # COOPTIC
