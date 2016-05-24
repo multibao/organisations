@@ -4,4 +4,4 @@ label: Collectif Chiendent
 owner: chiendent
 ---
 
-* [lien vers l'organisation](http://github.com/chiendent)
+> [lien vers l'organisation](http://github.com/chiendent)
