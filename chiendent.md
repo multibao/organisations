@@ -1,6 +1,6 @@
 ---
-title: Se réapproprier l'espace public
-label: collectif Chiendent
+title: collectif Chiendent
+label: Se réapproprier l'espace public
 owner: chiendent
 ---
 
