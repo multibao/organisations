@@ -1,5 +1,5 @@
 ---
-title: Stagiaires-tuteurs
-label: Team multiBàO: stagiaires
+title: Stagiaires multiBàO
+label: Astuces pour tuteurs/stagiaires
 owner: captain-berrotte
 ---
