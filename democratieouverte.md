@@ -1,6 +1,6 @@
 ---
-title: Vous présenter les inovations démocratiques
-label: Association Démocratie Ouverte
+title: Donner à voir les inovations démocratiques
+label: Démocratie Ouverte
 owner: alecoz/democratie_ouverte/tree/master/contributions
 ---
 
