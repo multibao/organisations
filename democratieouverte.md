@@ -1,5 +1,5 @@
 ---
-title: Donner à voir les inovations démocratiques
+title: Donner à voir les innovations démocratiques
 label: Démocratie Ouverte
 owner: alecoz/democratie_ouverte/tree/master/contributions
 ---
