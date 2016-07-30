@@ -1,6 +1,6 @@
 ---
 title: La Cagette 
-label: Supermarché à but non lucratif, ouvert à tous
+label: Supermarché a but non lucratif, ouvert a tous
 owner: la-cagette/documentation
 ---
 
