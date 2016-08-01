@@ -1,5 +1,5 @@
 ---
 title: Icebreakers et jeux d'inclusion
-label: WORKLAB
+label: Life is a serious game
 owner: lifeisaseriousgame/icebreakers_et_jeux_d_inclusion
 ---
