@@ -1,6 +1,6 @@
 ---
 title: Se réapproprier l'espace public
-label: collectif Chiendent
+label: Chiendent
 owner: chiendent/atelier-de-rue
 ---
 
