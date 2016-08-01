@@ -1,6 +1,6 @@
 ---
 title: Ateliers collaboratifs et facilitation
-label: association CPCOOP
+label: CPCOOP
 owner: cpcoop
 ---
 
