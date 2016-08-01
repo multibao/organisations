@@ -1,6 +1,6 @@
 ---
 title: Porter des initiatives de transition
-label: asbl Réseau Transition
+label: Réseau Transition
 owner: reseautransitionwb/reseau_transition
 ---
 
