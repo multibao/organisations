@@ -1,6 +1,6 @@
 ---
-title: Jeux co-créatifs
-label: Lilian Ricaud
+title: Jeux co-créatifs sélectionnés et documentés par Lilian Ricaud
+label: Jeux co-créatifs
 owner: lilianricaud/travail-en-reseau
 ---
 
