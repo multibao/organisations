@@ -1,5 +1,5 @@
 ---
-title: Non-organiser un coworking éphémère
+title: Organiser en peu de temps un coworking éphémère en montagne
 label: DevOpenSud 
 owner: devopensud/non-organisation-2016
 ---
