@@ -1,5 +1,5 @@
 ---
-title: Ateliers collaboratifs et facilitation
+title: Faciliter des ateliers collaboratifs
 label: CPCOOP
 owner: cpcoop
 ---
