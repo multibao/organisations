@@ -1,5 +1,5 @@
 ---
-title: Supermarché à but non lucratif, ouvert à tous
+title: Animer un supermarché à but non lucratif, ouvert à tous
 label: La Cagette 
 owner: la-cagette/documentation
 ---
