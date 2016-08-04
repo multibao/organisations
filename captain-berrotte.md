@@ -1,6 +1,6 @@
 ---
-title: Astuces pour tuteurs/stagiaires
-label: stagiaires multiBàO
+title: Stagiaires/tuteurs: faciliter la collaboration
+label: stagiaires BàO
 owner: captain-berrotte/astuces_stages_creatifs
 ---
 
