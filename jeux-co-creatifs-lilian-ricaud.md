@@ -1,6 +1,6 @@
 ---
-title: Jeux co-créatifs pour penser et faire ensemble. 
-label: Recettes Lilian Ricaud
+title: Jeux co-créatifs pour penser et faire ensemble
+label: Lilian Ricaud
 owner: lilianricaud/travail-en-reseau
 ---
 
