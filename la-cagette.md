@@ -1,5 +1,5 @@
 ---
-title: Lancer un supermarché à but non lucratif, ouvert à tous
+title: Lancer un supermarché non lucratif, ouvert à tous
 label: La Cagette 
 owner: la-cagette/documentation
 ---
