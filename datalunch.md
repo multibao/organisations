@@ -1,5 +1,5 @@
 ---
-title: Data lunch
-label: Apprendre avec de la junk data
+label: Data lunch
+title: Apprendre avec de la junk data
 owner: infolab-cd33/datalunch
 ---
