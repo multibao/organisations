@@ -1,5 +1,5 @@
 ---
-title: atelier pour apprendre le management visuel
+title: Atelier pour apprendre le management visuel
 label: Al tablèu
 owner: claudeaubry/contributions/tree/master/altableu
 ---
