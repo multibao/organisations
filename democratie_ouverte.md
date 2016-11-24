@@ -1,5 +1,5 @@
 ---
-title: Explorons les process démocratiques ouverts et transparents. 
+title: Explorer les expériences démocratiques
 label: Démocratie Ouverte
 owner: alecoz/democratie_ouverte/tree/master/contributions
 ---
